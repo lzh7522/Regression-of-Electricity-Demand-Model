@@ -8,4 +8,4 @@ We are doing a mathematics project to find the influence factors of the electric
 
 In this programme, OLS library will do the regreesion and automatically delete the factor with the highest P-values, until all P-values are below 0.05. The last regreesive calculation indicated the final results and coefficient in this model.
 
->`.csv` is the Electricity Consumption Residential in Singapore and other data. <br>`p_values_hh.py` is the main Python file.
+`.csv` is the Electricity Consumption Residential in Singapore and other data. <br>`p_values_hh.py` is the main Python file.
